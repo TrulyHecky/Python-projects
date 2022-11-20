@@ -6,6 +6,7 @@ In this repository you will find a lot of different projects that I wrote on Pyt
 
 - Calculator (Tkinter)
 - Math Quiz (Tkinter, JSON)
+- Quiz (console) (pure Python)
 
 # Technologies
 
