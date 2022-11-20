@@ -5,7 +5,7 @@ from tkinter import *
 
 # Declaring workbook and sheet variables
 
-workbook = load_workbook("C:\\Users\\heckt\\OneDrive\\Desktop\\users.xlsx")
+workbook = load_workbook("C:\\Users\\username\\OneDrive (if needed)\\Desktop\\users.xlsx")
 
 # Creating sheet object
 
@@ -99,7 +99,7 @@ def insert ():
         sheet.cell(row=current_row + 1, column=6).value = email_field.get()
         sheet.cell(row=current_row + 1, column=7).value = address_field.get()
 
-        workbook.save("C:\\Users\\heckt\\OneDrive\\Desktop\\users.xlsx")
+        workbook.save("C:\\Users\\username\\OneDrive (if needed)\\Desktop\\users.xlsx")
 
         # Set focus on the name_field box
 
