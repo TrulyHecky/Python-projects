@@ -19,4 +19,4 @@ In this repository you will find a lot of different projects that I wrote on Pyt
 ### Exceptions
 
 - Before using registration form you have to close your Excel file, to make all working properly.
-- In the variable with Excel path, you have to enter your username, and if you have your path going through OneDrive, also add it.
+- In the variable with Excel path, you have to enter your username, and if you have your path going through OneDrive, also add it. (lines 8 and 102)
