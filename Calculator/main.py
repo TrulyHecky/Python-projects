@@ -1,9 +1,8 @@
 from tkinter import *
-from tkinter import ttk
 
 win = Tk()
 
-win.geometry("500x300")
+win.geometry("800x500")
 
 def sum_nums():
     sum = float(entry1.get()) + float(entry2.get())  # type: ignore
