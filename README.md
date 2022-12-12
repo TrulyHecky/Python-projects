@@ -9,6 +9,7 @@ In this repository you will find a lot of different projects that I wrote on Pyt
 - Quiz (console) (pure Python)
 - Registration form (Tkinter)
 - Advanced Calculator (pure Python)
+- Mad Libs game (pure Python)
 
 # Technologies
 
