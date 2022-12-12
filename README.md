@@ -10,6 +10,7 @@ In this repository you will find a lot of different projects that I wrote on Pyt
 - Registration form (Tkinter)
 - Advanced Calculator (pure Python)
 - Mad Libs game (pure Python)
+- Simple password guess (pure Python)
 
 # Technologies
 
