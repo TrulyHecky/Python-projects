@@ -1,6 +1,6 @@
 # Python projects
 
-In this repository you will find different projects that I wrote on Python.
+In this repository you will find different projects that I wrote on Python
 
 # Projects
 
